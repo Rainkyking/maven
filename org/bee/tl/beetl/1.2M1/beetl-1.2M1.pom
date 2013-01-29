@@ -1,0 +1,44 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.bee.tl</groupId>
+	<artifactId>beetl</artifactId>
+	<version>1.2M1</version>
+	<packaging>jar</packaging>
+	<name>${project.artifactId}</name>
+	<description>${project.artifactId}</description>
+	<dependencies>
+		<dependency>
+			<groupId>org.antlr</groupId>
+			<artifactId>antlr</artifactId>
+			<version>3.3</version>
+		</dependency>
+	</dependencies>
+	<scm>
+		<url>http://beetl.sourceforge.net</url>
+		<connection>scm:svn:https://beetl.svn.sourceforge.net/svnroot/beetl</connection>
+		<developerConnection>scm:svn:https://beetl.svn.sourceforge.net/svnroot/beetl/trunk</developerConnection>
+	</scm>
+	<developers>
+		<developer>
+			<name>Joel Li</name>
+			<roles>
+				<role>Developer</role>
+			</roles>
+			<timezone>+8</timezone>
+		</developer>
+	</developers>
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.5</source>
+					<target>1.5</target>
+					<encoding>UTF-8</encoding>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+</project>
