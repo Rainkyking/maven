@@ -50,7 +50,7 @@ HTTL Maven Dependency Sample
         </span><span class="sc1">&lt;dependency&gt;</span><span class="sc0">
             </span><span class="sc1">&lt;groupId&gt;</span><span class="sc0">httl</span><span class="sc1">&lt;/groupId&gt;</span><span class="sc0">
             </span><span class="sc1">&lt;artifactId&gt;</span><span class="sc0">httl</span><span class="sc1">&lt;/artifactId&gt;</span><span class="sc0">
-            </span><span class="sc1">&lt;version&gt;</span><span class="sc0">1.0.5</span><span class="sc1">&lt;/version&gt;</span><span class="sc0">
+            </span><span class="sc1">&lt;version&gt;</span><span class="sc0">1.0.7</span><span class="sc1">&lt;/version&gt;</span><span class="sc0">
         </span><span class="sc1">&lt;/dependency&gt;</span><span class="sc0">
     </span><span class="sc1">&lt;/dependencies&gt;</span><span class="sc0">
     </span><span class="sc1">&lt;repositories&gt;</span><span class="sc0">
@@ -59,7 +59,7 @@ HTTL Maven Dependency Sample
             </span><span class="sc1">&lt;name&gt;</span><span class="sc0">Httl Repository</span><span class="sc1">&lt;/name&gt;</span><span class="sc0">
             </span><span class="sc1">&lt;url&gt;</span><span class="sc0">http://httl.github.com/maven</span><span class="sc1">&lt;/url&gt;</span><span class="sc0">
         </span><span class="sc1">&lt;/repository&gt;</span><span class="sc0">
-    </span><span class="sc1">&lt;/repositories&gt;</span><span class="sc0">
+    </span><span class="sc1">&lt;/repositories&gt;</span><span class="sc0">s
 </span><span class="sc1">&lt;project&gt;</span></div>
 
 
