@@ -42,7 +42,7 @@ HTTL Maven Repository Configuration
 </span><span class="sc1">&lt;project&gt;</span></div>
 
 <h2>
-Cooma Maven Dependency Sample
+HTTL Maven Dependency Sample
 </h2>
 
 <div style="white-space: pre; line-height: 1; background: #000000; "><span class="sc1">&lt;project&gt;</span><span class="sc0">
@@ -62,6 +62,20 @@ Cooma Maven Dependency Sample
     </span><span class="sc1">&lt;/repositories&gt;</span><span class="sc0">
 </span><span class="sc1">&lt;project&gt;</span></div>
 
+
+<h2>HTTL Projects Infos</h2>
+
+<p>Documentations of HTTL: <a href="http://httl.github.com/">http://httl.github.com/</a></p>
+
+<p>Project repository URLs: <a href="https://github.com/httl">https://github.com/httl</a> :</p>
+
+<ul>
+<li><a href="https://github.com/httl/httl">Hyper-Text Template Language and Engine</a></li>
+<li><a href="https://github.com/httl/httl-struts">HTTL Struts Demo</a></li>
+<li><a href="https://github.com/httl/httl-springmvc">HTTL SpringMVC Demo</a></li>
+<li><a href="https://github.com/httl/httl-servlet">HTTL Servlet Demo</a></li>
+<li><a href="https://github.com/httl/httl-benchmark">Template engines benchmark</a></li>
+</ul>
 
 <h2>Repository File List</h2>
 
